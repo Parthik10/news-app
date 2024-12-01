@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#heading{
+  margin-top: 4rem;
+}
+#socialbar{
+  position: fixed;
+  margin-top: 6dvb;
+  width:55px;
+}
+#socialbar li a{
+  width:30px;
+  height: 30px;
+}
